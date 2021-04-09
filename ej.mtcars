@@ -1,0 +1,4 @@
+#Ejemplo de como colocar en github
+
+auto <- mtcars
+head(auto)
